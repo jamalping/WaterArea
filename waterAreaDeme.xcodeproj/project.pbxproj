@@ -14,6 +14,7 @@
 		7369632F1A75F3F8003793B6 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7369632E1A75F3F8003793B6 /* Images.xcassets */; };
 		736963321A75F3F8003793B6 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 736963301A75F3F8003793B6 /* LaunchScreen.xib */; };
 		7369633E1A75F3F8003793B6 /* waterAreaDemeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7369633D1A75F3F8003793B6 /* waterAreaDemeTests.m */; };
+		736963481A75F480003793B6 /* TheQuestion.png in Resources */ = {isa = PBXBuildFile; fileRef = 736963471A75F480003793B6 /* TheQuestion.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		736963371A75F3F8003793B6 /* waterAreaDemeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = waterAreaDemeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7369633C1A75F3F8003793B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7369633D1A75F3F8003793B6 /* waterAreaDemeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = waterAreaDemeTests.m; sourceTree = "<group>"; };
+		736963471A75F480003793B6 /* TheQuestion.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TheQuestion.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 		736963151A75F3F8003793B6 = {
 			isa = PBXGroup;
 			children = (
+				736963471A75F480003793B6 /* TheQuestion.png */,
 				736963201A75F3F8003793B6 /* waterAreaDeme */,
 				7369633A1A75F3F8003793B6 /* waterAreaDemeTests */,
 				7369631F1A75F3F8003793B6 /* Products */,
@@ -202,6 +205,7 @@
 				7369632D1A75F3F8003793B6 /* Main.storyboard in Resources */,
 				736963321A75F3F8003793B6 /* LaunchScreen.xib in Resources */,
 				7369632F1A75F3F8003793B6 /* Images.xcassets in Resources */,
+				736963481A75F480003793B6 /* TheQuestion.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
